@@ -1,0 +1,23 @@
+{
+  "name": "npm-test-rbg",
+  "version": "1.0.0",
+  "description": "Ejemplo de creación de un módulo NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbarrales/npm-test-rbg.git"
+  },
+  "author": "Raymundo Barrales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbarrales/npm-test-rbg/issues"
+  },
+  "homepage": "https://github.com/rbarrales/npm-test-rbg#readme",
+  "dependencies": {
+    "mongodb": "^4.2.0"
+  },
+  "devDependencies": {}
+}
